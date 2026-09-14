@@ -1,6 +1,6 @@
 # Network-level PM measurement transferability framework
 
-Reproducibility package for the manuscript **“Network-Scale Evaluation of Low-Cost Particulate Matter Monitoring Against Regulatory Measurements: Agreement, Seasonal Bias and Spatial Transferability Across Serbian Cities.”**
+Reproducibility package for the manuscript **“A Reproducible Framework for Evaluating Network-Level Agreement and Spatial Transferability of Low-Cost Particulate Matter Monitoring Against Regulatory Networks.”**
 
 ## What this repository reproduces
 
