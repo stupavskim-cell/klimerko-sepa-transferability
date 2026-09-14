@@ -53,7 +53,7 @@ Before manuscript submission:
 2. Connect the repository to Zenodo.
 3. Create a GitHub release, recommended tag `v1.0.0`.
 4. Confirm the Zenodo record and version-specific DOI.
-5. Replace `REPLACE_WITH_GITHUB_REPOSITORY_URL`, `[GITHUB_REPOSITORY_URL]`, and `[ZENODO_VERSION_DOI]` placeholders in repository/manuscript files.
+5. Repository: https://github.com/stupavskim-cell/klimerko-sepa-transferability. After Zenodo archiving, insert the version-specific DOI into the repository and manuscript files.
 
 Do **not** invent a DOI. The archived DOI is inserted only after Zenodo creates or reserves the record.
 
