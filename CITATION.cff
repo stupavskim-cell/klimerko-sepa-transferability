@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release and the associated article."
+title: "Network-level PM measurement transferability framework"
+type: software
+authors:
+  - family-names: "Brborić"
+    given-names: "Maja"
+  - family-names: "Nakomčić Smaragdakis"
+    given-names: "Branka"
+  - family-names: "Šunjević"
+    given-names: "Miljan"
+  - family-names: "Rajs"
+    given-names: "Vladimir"
+  - family-names: "Dmitrašinović"
+    given-names: "Sonja"
+version: 1.0.0
+date-released: 2026-09-14
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+license: MIT
+keywords:
+  - low-cost sensors
+  - particulate matter
+  - spatial transferability
+  - leave-one-city-out validation
+  - air quality

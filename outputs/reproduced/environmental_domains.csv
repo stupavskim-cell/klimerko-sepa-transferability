@@ -1,0 +1,3 @@
+Pollutant,Best_k,Silhouette,ARI_KMeans_Ward
+PM2.5,2,0.3901455582949418,1.0
+PM10,2,0.41828743037228994,1.0
