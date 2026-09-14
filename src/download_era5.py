@@ -3,19 +3,20 @@
 Download daily ERA5 meteorology for all 23 Klimerko-SEPA locations
 using ONE multi-location Open-Meteo Historical API request.
 
-Place this script in the same folder as:
-    ERA5_city_coordinates.csv
+Run this script from the repository root.
+   Input:
+    data/analysis/city_coordinates.csv
 
 Output:
-    ERA5_city_daily_2019-10-07_2024-12-31.csv
+    data/analysis/era5_city_daily.csv
 """
 
 import time
 import requests
 import pandas as pd
 
-COORD_FILE = "ERA5_city_coordinates.csv"
-OUT_FILE = "ERA5_city_daily_2019-10-07_2024-12-31.csv"
+COORD_FILE = "data/analysis/city_coordinates.csv"
+OUT_FILE = "data/analysis/era5_city_daily.csv"
 
 START = "2019-10-07"
 END = "2024-12-31"
