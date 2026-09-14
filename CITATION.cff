@@ -15,7 +15,7 @@ authors:
     given-names: "Sonja"
 version: 1.0.0
 date-released: 2026-09-14
-repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+repository-code: "https://github.com/stupavskim-cell/klimerko-sepa-transferability"
 license: MIT
 keywords:
   - low-cost sensors
