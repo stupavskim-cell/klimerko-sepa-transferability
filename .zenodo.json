@@ -1,0 +1,30 @@
+{
+  "title": "Network-level PM measurement transferability framework",
+  "upload_type": "software",
+  "description": "Reproducibility package implementing association, agreement, temporal generalisation, strict leave-one-city-out spatial transferability, uncertainty analysis and domain-failure diagnosis for paired low-cost and regulatory particulate-matter networks.",
+  "creators": [
+    {
+      "name": "Brborić, Maja"
+    },
+    {
+      "name": "Nakomčić Smaragdakis, Branka"
+    },
+    {
+      "name": "Šunjević, Miljan"
+    },
+    {
+      "name": "Rajs, Vladimir"
+    },
+    {
+      "name": "Dmitrašinović, Sonja"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "low-cost sensors",
+    "particulate matter",
+    "spatial transferability",
+    "LOCO cross-validation",
+    "air quality"
+  ]
+}
